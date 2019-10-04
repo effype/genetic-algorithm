@@ -1,0 +1,11 @@
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\bin\Debug\netcoreapp2.1\genetic-algorithm.deps.json
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\bin\Debug\netcoreapp2.1\genetic-algorithm.runtimeconfig.json
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\bin\Debug\netcoreapp2.1\genetic-algorithm.runtimeconfig.dev.json
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\bin\Debug\netcoreapp2.1\genetic-algorithm.dll
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\bin\Debug\netcoreapp2.1\genetic-algorithm.pdb
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\obj\Debug\netcoreapp2.1\genetic-algorithm.csprojAssemblyReference.cache
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\obj\Debug\netcoreapp2.1\genetic-algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\obj\Debug\netcoreapp2.1\genetic-algorithm.AssemblyInfoInputs.cache
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\obj\Debug\netcoreapp2.1\genetic-algorithm.AssemblyInfo.cs
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\obj\Debug\netcoreapp2.1\genetic-algorithm.dll
+C:\Users\Jola\source\repos\genetic-algorithm\genetic-algorithm\obj\Debug\netcoreapp2.1\genetic-algorithm.pdb
